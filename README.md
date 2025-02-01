@@ -6,9 +6,12 @@ This repository contains **Python solutions** to various **Leetcode problems**, 
 ---
 
 ## 🚀 Key Features   
-- **Python-Based**: All solutions are implemented in Python, a popular language for coding interviews.  
-- **Efficient Algorithms**: Focus on optimal time and space complexity.  
-- **Easy to Understand**: Solutions are well-commented and explained for clarity.  
+1. **Python-Based**:
+   - All solutions are implemented in Python, a popular language for coding interviews.   
+2. **Efficient Algorithms**:
+   - Focus on optimal time and space complexity.  
+3. **Easy to Understand**:
+   - Solutions are well-commented and explained for clarity.  
 
 ---
 
@@ -35,7 +38,7 @@ This repository contains **Python solutions** to various **Leetcode problems**, 
 
 ---
 
-## 🛠 Usage  
+## 🛠 System Requirements 
 ### Dependencies  
 - Python 3.8+
 
