@@ -16,22 +16,20 @@ This repository contains **Python solutions** to various **Leetcode problems**, 
 ---
 
 ## 🔍 Topics Covered  
-1. **Searching**:  
+1. **Searching and Sorting**:  
    - Binary Search  
-   - Linear Search  
-2. **Sorting**:  
-   - Quick Sort  
-   - Merge Sort  
-   - Bubble Sort  
-3. **Arrays**:  
+   - Linear Search
+   - Tim Sort
+   - Quick Sort 
+2. **Arrays and Strings**:  
    - Two-pointer technique  
    - Sliding Window  
    - Subarray problems  
-4. **Linked Lists**:  
+3. **Linked Lists**:  
    - Reversal  
    - Cycle Detection  
    - Merge Linked Lists  
-5. **More**:  
+4. **More**:  
    - Dynamic Programming  
    - Greedy Algorithms  
    - Tree and Graph Traversal  
