@@ -37,4 +37,9 @@ This repository contains **Python solutions** to various **Leetcode problems**, 
 
 ## 🛠 Usage  
 ### Dependencies  
-- Python 3.8+  
+- Python 3.8+
+
+---
+
+## 📄 License  
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
